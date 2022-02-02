@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SKEGDEV
 - 👀 I’m interested in software design
-- 🌱 I’m currently learning software web with node js in backend and react & react native in frontend
+- 🌱 I’m currently learning software web with express js and python flask in backend and react in frontend
 - 💞️ I’m looking to collaborate on none
 - 📫 How to reach me on my email skegdeveloper@gmail.com, or my Facebook Edu Gonzalez
 
