@@ -1,21 +1,16 @@
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kad-f.kad-f" />
-</p>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
 </p>
 
 <div align="center">
-  <h2>Aspiring Software Engineer</h2>
-  <p>
-   🚀 I am Eduardo Gonzalez <strong>Full Stack Developer</strong>
-  </p>
+  <h2>👋 I’m Edu Gonzalez <strong>full stack developer with 3 years of experience</strong></h2>
 </div>
 
 <div align="center">
-  <p>🌱 I’m currently learning <strong>MERN Stack</strong></p>
-  <p>💬 Ask me about <strong>Javascript, C, C++, PHP... or anything <a href="https://github.com/kad-f">here</a></strong></p>
+  <p>👀 I’m interested in learn more about: software architecture, aws, docker, kubernetes.</p>
+  <p>🌱 I’m currently work in once greatest remittances company in American Central Airpak as maintenance application developer, but i'm open to new opportunities</p>
+  <p>💞️ I’m looking to collaborate with awesome teams where my expertice may be of use </p>
+  <p>📫 if you are interested in my profile please contact me on my email eduardo.gonzalez.escobar.dev@gmail.com</p>
 </div>
 
 <div align="center">
@@ -63,13 +58,4 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Facebook!;I'm+always+down+to+collab+:)">
 </h3>
-- 👋 Hi, I’m Edu Gonzalez
-- 👀 I’m interested in get experience working on projects and grow more professionally
-- 🌱 I’m currently a web developer, i have knowledge in Express js and Python Flask in the backend and React js in the frontend
-- 💞️ I’m looking to collaborate on some company with innovative technologies
-- 📫 if you are interested in my profile please contact me on my email skegdeveloper@gmail.com
 
-<!---
-SKEGDEV/SKEGDEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
