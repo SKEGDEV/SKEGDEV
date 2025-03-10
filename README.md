@@ -8,7 +8,7 @@
 
 <div align="center">
   <p>👀 I’m interested in learning more about: software architecture, aws, docker, kubernetes.</p>
-  <p>🌱 I’m currently working in once of greatest remittances company in Central America Airpak as maintenance application developer, but i'm open to new opportunities</p>
+  <p>🌱 I’m currently working in once of greatest remittances companies in Central America Airpak as maintenance application developer, but i'm open to new opportunities</p>
   <p>💞️ I’m looking to collaborate with amazing teams where my experience may be of use </p>
   <p>📫 if you are interested in my profile please contact me on my email eduardo.gonzalez.escobar.dev@gmail.com</p>
 </div>
